@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Hierarchy
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
@@ -43,7 +43,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Scene
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -72,7 +72,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 135
+  controlID: 105
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 28
+  controlID: 106
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -275,7 +275,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 29
+  controlID: 107
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -341,22 +341,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Source
+    - Assets/Materials
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Source
+  - Assets/Materials
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\queiker\source\FliperGame\FliperGame
+  m_LastProjectPath: C:\Users\queiker\source\UnityFliperGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 223a0000
-    m_LastClickedID: 14882
-    m_ExpandedIDs: 00000000163a000000ca9a3b
+    m_SelectedIDs: 743a0000
+    m_LastClickedID: 14964
+    m_ExpandedIDs: 000000006c3a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -384,7 +384,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000163a0000
+    m_ExpandedIDs: 000000006c3a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -505,9 +505,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: d0390000
-      m_LastClickedID: 14800
-      m_ExpandedIDs: 36fbffff9e390000
+      m_SelectedIDs: 4cadffff
+      m_LastClickedID: -21172
+      m_ExpandedIDs: 4cadffffb4aefffff0d8ffff02f7ffff2afaffff56fbffffac390000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -567,9 +567,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 6.1495137, y: 10.46973, z: -11.900436}
+    m_Target: {x: 98.89195, y: 101.332565, z: -60.79426}
     speed: 2
-    m_Value: {x: 6.1495137, y: 10.46973, z: -11.900436}
+    m_Value: {x: 98.89195, y: 101.332565, z: -60.79426}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -616,13 +616,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.14701629, y: 0.11132997, z: -0.016648944, w: -0.98271203}
+    m_Target: {x: -0.052430023, y: 0.04223582, z: -0.002213433, w: -0.99772704}
     speed: 2
-    m_Value: {x: -0.14701569, y: 0.11132952, z: -0.016648877, w: -0.98270804}
+    m_Value: {x: -0.052426726, y: 0.04373243, z: -0.002292079, w: -0.9976641}
   m_Size:
-    m_Target: 18.222633
+    m_Target: 145.07642
     speed: 2
-    m_Value: 18.222633
+    m_Value: 151.91248
   m_Ortho:
     m_Target: 1
     speed: 2
